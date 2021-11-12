@@ -99,7 +99,7 @@ header {
   margin-right: -25px;
 }
 
-.header-right a {
+.header a {
   line-height: 65px;
   padding: 0 25px;
   color: white;
@@ -108,7 +108,7 @@ header {
   transition: all 0.5s;
 }
 
-.header-right a:hover {
+.header a:hover {
   background-color: rgba(255,255,255,0.3);
 }
 
